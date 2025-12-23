@@ -1,7 +1,7 @@
 # Course MySkillID
 <p align="center"> 
   <b> Visitor Count </b><br><br>
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=naelxploit&repo=certificates&countColor=%237B1E7A" />
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=naelxploit&repo=courses-certificate&countColor=%237B1E7A" />
 </p><br>
 
 # 1. ARTIFICIAL INTELLEGENCE INTRODUCTION
