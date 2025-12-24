@@ -13,8 +13,8 @@
 # Maheswara Maheswari Metland School (Organization)
 # Event Organization & Committee Experience
 
-#1
+# 1.
 <img src="https://raw.githubusercontent.com/6XploitID/Gallery-Certificate/refs/heads/main/Nirvana%20Handika%20Putra.png"/>
 
-#2
+# 2.
 <img src="https://raw.githubusercontent.com/6XploitID/Gallery-Certificate/refs/heads/main/NIRVANA%20HANDIKA%20PUTRA%20(1).png"/>
